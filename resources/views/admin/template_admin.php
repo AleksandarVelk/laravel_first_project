@@ -8,11 +8,11 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <html>
 <head>
 <title>Agrom  A Agriculture Flat bootstrap Responsive  Website Template | Home :: w3layouts</title>
-    @include('header_scripts')  
+    
 </head>
 <body>
-    @include('header')
-    @yield('centar_content')
-    @include('foother')
+   
+    @yield('admin_content')
+   
 </body>
 </html>

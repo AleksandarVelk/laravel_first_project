@@ -9,10 +9,12 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <head>
 <title>Agrom  A Agriculture Flat bootstrap Responsive  Website Template | Home :: w3layouts</title>
     @include('header_scripts')  
+    <link href="css/custom_admin.css" rel="stylesheet" type="text/css" media="all"/>
+    
 </head>
 <body>
-    @include('header')
-    @yield('centar_content')
-    @include('foother')
+   
+    @yield('admin_content')
+
 </body>
 </html>

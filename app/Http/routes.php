@@ -16,7 +16,14 @@
 // });
 
 Route::get('/','WelcomeController@index');
+Route::get('admin','AdminController@index');
 
+// Route::post('/admin', function(){
+// 	return 'post created';
+// });
+
+Route::post('admin/addNewTab','AdminController@addNewTab');
+Route::delete('admin/deleteTab{id}','AdminController@deleteTab');
 // Route::get('homepage','AgriproductsController@index');
 // Route::get('homepage/create', 'AgriproductsController@create');
 // Route::get('homepage/{id}','AgriproductsController@show');

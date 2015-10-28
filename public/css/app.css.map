@@ -1,1 +1,0 @@
-{"version":3,"sources":["app.scss"],"names":[],"mappings":"AAEA;EACC,kBAAiB,EADb;;AAIkB;EACtB,iBAAiB,EADW","file":"app.css","sourcesContent":["// @import \"node_modules/bootstrap-sass/assets/stylesheets/bootstrap\";\n\nbody{\n\tpadding-top:40px;\n}\n\nbody, label, .checkbox label{\n\tfont-weight: 300;\n}"],"sourceRoot":"/source/"}
