@@ -148,9 +148,7 @@
         <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-user"></i> Your Username<b class="caret"></b></a>
         <ul class="dropdown-menu">
           <li class="dropdown-header">Store <i class="fa fa-shopping-cart"></i></li>
-
           <li><a href="" target="_blank">Your Demo Store</a></li>
-
           <li class="divider"></li>
           <li><a class="sublink" href="">Profile</a></li>
           <li><a class="sublink" href="">Settings</a></li>
@@ -205,7 +203,6 @@
 				            <div class="list-group-item submenustab">
 				                <a href="#myModal"  data-toggle="modal">Launch Demo Modal</a>
 							<span style="float:right;">
-								
 					   			<button class="btn btn-danger btn-xs" data-title="Delete" data-toggle="modal" data-target="#delete"><span class="glyphicon glyphicon-trash"></span></button></p>
 				        	</span>
 				        	</div>
