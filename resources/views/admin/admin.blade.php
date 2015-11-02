@@ -181,7 +181,7 @@
 								{!! Form::text('newtab','', array('id'=> '', 'class' => 'form-control', 'placeholder' => 'Внесете нов таб!')) !!}	
 								</div>
 								
-								{!! Form::button('Login', array('class' => 'btn btn-success')) !!}
+								{!! Form::button('Dodadi Nov Tab', array('class' => 'btn btn-success')) !!}
 							
 					    
 					  
